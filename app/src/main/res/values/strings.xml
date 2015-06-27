@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MovieQuiz</string>
+
+    <string name="question">question?</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_scores">Scores</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_final_results">FinalResults</string>
+    <string name="title_activity_final_stats">FinalStats</string>
+    <string name="title_activity_stats">Stats</string>
+</resources>
